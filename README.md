@@ -7,7 +7,7 @@
 - [DTLZ](./tables/dtlz.md)
 
 ## Runtime Performance and Resulting Pareto front approximations for all problems:
-- [Link](./all_proplems_plots/)
+- [Link](./all_problems_plots/)
 
 ## Inner Parameter Tuning for ZDT4 and ZDT6:
 - [Link](./TutorM_params_ZDT4_ZDT6/)
