@@ -1,0 +1,5 @@
+scipy
+numpy
+pandas
+scikit-learn[alldeps]
+sobol_seq
